@@ -7,7 +7,7 @@ This is the final project for my Coursera course. This repository contains all t
 Clone the repository and run the Python script.
 
 ```
-git clone https://github.com/YourGithubUsername/YourRepositoryName.git
+git clone https://github.com/h9g8723/hgf29813
 python script.py
 ```
 
